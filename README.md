@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 **[Live demo](https://rag-chatbot-marp.vercel.app)** ·
-[Repository](https://github.com/Marpfirst/RAG-Chatbot)
+[Repository](https://github.com/Marpfirst/sigap-assistant)
 
 </div>
 
