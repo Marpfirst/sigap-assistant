@@ -25,6 +25,9 @@ and delegates document-grounded questions to a **Specialist** agent. The reader
 sees one chat column; each answer shows which agent produced it and what it cost
 in tokens.
 
+I built it as the take-home test for the AI Engineer role at Brand N Purpose,
+where I now work.
+
 The corpus is a fictional Indonesian helpdesk SaaS called Sigap — four documents,
 38 sections. Fictional on purpose: the model cannot know Sigap's pricing from
 training, so a correct answer proves retrieval worked rather than that the model
